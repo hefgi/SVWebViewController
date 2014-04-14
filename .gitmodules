@@ -1,0 +1,6 @@
+[submodule "lib/MBProgressHUD"]
+	path = lib/MBProgressHUD
+	url = https://github.com/merchlar/MBProgressHUD.git
+[submodule "lib/Reachability"]
+	path = lib/Reachability
+	url = https://github.com/tonymillion/Reachability.git
